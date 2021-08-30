@@ -1,6 +1,3 @@
-
-
-
 public class CalcCost { 
 
     private int numberOfVehicles = 0; 
