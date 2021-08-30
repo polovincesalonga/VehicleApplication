@@ -122,7 +122,7 @@ public class VehicleGUI extends JFrame implements ActionListener {
 
 
         //text area 
-        outputArea = new JTextArea(10,15); 
+        outputArea = new JTextArea(10,30); 
         scrollPane = new JScrollPane(outputArea); 
         outputArea.setEditable(false);
 
